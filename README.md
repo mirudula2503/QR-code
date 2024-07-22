@@ -1,1 +1,1 @@
-# QR-code
+generate QR code by entering text and links
